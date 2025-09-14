@@ -1,5 +1,10 @@
 # PetitPotato
 
+Credit goes to wh0amitz <3. this is the main repo: [https://github.com/TarlogicSecurity/EoPLoadDriver](https://github.com/wh0amitz/PetitPotato)
+
+This repo is just to have the prebuilt compiled exes to avoid manual compilation.
+
+
 Local privilege escalation via PetitPotam (Abusing impersonate privileges).
 
 ## Description
