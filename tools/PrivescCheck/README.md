@@ -1,4 +1,8 @@
 # PrivescCheck
+Credit goes to itm4n <3. this is the main repo: https://github.com/itm4n/PrivescCheck
+
+This repo is just to have the prebuilt compiled exes to avoid manual compilation.
+
 
 Quickly identify common Windows **vulnerabilities** and **configuration issues** that are not necessarily covered by public security standards, and collect useful information for exploitation and post-exploitation tasks.
 
