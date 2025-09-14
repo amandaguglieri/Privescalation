@@ -1,4 +1,8 @@
 # GMSAPasswordReader
+Credit goes to rvazarkar <3. this is the main repo : https://github.com/rvazarkar/GMSAPasswordReader
+
+This repo is just to have the prebuilt compiled exes to avoid manual compilation.
+
 
 ## Description
 
