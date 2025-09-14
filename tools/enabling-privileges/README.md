@@ -1,4 +1,10 @@
-# Homework-of-C-Language
+# Compilation of Privileges exploitation.
+Credit goes to 3gstudent <3. this is the main repo : [https://github.com/xct/SeRestoreAbuse](https://github.com/3gstudent/Homework-of-C-Language)
+
+This repo is just to have the prebuilt compiled exes to avoid manual compilation.
+
+
+## Homework-of-C-Language
 C/C++ code examples of my blog.
 
 ---
