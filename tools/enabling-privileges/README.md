@@ -1,5 +1,5 @@
 # Compilation of Privileges exploitation.
-Credit goes to 3gstudent <3. this is the main repo : [https://github.com/xct/SeRestoreAbuse](https://github.com/3gstudent/Homework-of-C-Language)
+Credit goes to 3gstudent <3. this is the main repo : [https://github.com/3gstudent/Homework-of-C-Language](https://github.com/3gstudent/Homework-of-C-Language)
 
 This repo is just to have the prebuilt compiled exes to avoid manual compilation.
 
